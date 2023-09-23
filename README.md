@@ -34,7 +34,6 @@ RegisterNumber:212222110022
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
 
 ![Screenshot 2023-09-23 113410](https://github.com/Lingeswaran04/GCD-of-two-numbers/assets/119103865/9c397b89-018d-4266-a5e0-879c66e6611a)
 
